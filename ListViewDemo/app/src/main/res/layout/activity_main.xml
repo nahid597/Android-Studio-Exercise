@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#858cb4"
+    tools:context="com.nano.listviewdemo.MainActivity">
+
+    <ListView
+
+        android:listSelector="#12cc94"
+        android:dividerHeight="3dp"
+        android:id="@+id/listViewId"
+        android:divider="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+
+
+</android.support.constraint.ConstraintLayout>
