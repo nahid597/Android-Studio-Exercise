@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nahid">
+
+        Name: Nahid\n
+        Age: 21\n
+        Id:1610576147\n
+
+    </string>
+
+    <string name="milon">
+
+        Name: Milon\n
+        Age: 21\n
+        Id:1610576148\n
+
+    </string>
+
+</resources>
