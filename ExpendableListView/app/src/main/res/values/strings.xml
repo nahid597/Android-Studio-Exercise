@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ExpendableListView</string>
+
+    <string-array name="group_string">
+
+        <item>AP</item>
+        <item>API</item>
+        <item>ALU</item>
+        <item>JAVA</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>kotlin</item>
+        <item>java script</item>
+        <item>HTML</item>
+        <item>PHP</item>
+        <item>CD</item>
+        <item>LS</item>
+        <item>MKDIR</item>
+        <item> LOVE</item>
+
+
+
+    </string-array>
+
+    <string-array name="child_string">
+
+        <item>Android Program</item>
+        <item>Application programming Interface</item>
+        <item>Arithometic Logic unit</item>
+        <item>java is a programming language</item>
+        <item>C is a programming language</item>
+        <item>C++ is a programming language</item>
+        <item>C# is a programming language</item>
+        <item>kotlin is a programming language</item>
+        <item>java script is a programming language</item>
+        <item>HTML is a programming language</item>
+        <item>PHP is a programming language</item>
+        <item>Change directory</item>
+        <item>List show</item>
+        <item>Make directory</item>
+        <item>Love means valobasha</item>
+
+
+
+    </string-array>
+</resources>
